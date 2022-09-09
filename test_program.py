@@ -15,6 +15,6 @@ def test_program():
     except Exception as e:
         assert False, (
             'Не удалось запустить `program.py`. '
-            'Исправьте в нем ошибки:\n'
+            'Исправьте в 5нем ошибки:\n'
             f'{e}'
         )
